@@ -23,5 +23,3 @@
 
 ![ayushrakesh's](https://github-readme-stats.vercel.app/api?username=ayushrakesh&show_icons=true&theme=merko&hide_rank=true&rank_icon=github)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrakesh&layout=compact)
