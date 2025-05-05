@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayush Rakesh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrakesh" /> </p>
 
-- 🔭 I’m currently working on **Golang project - A simple bank system**
+- 🔭 Designing and implementing a custom memory management system in C++. Optimizing allocation/deallocation strategies for performance. Exploring low-level memory operations and fragmentation solutions
 
-- 🌱 I’m currently learning **Golang and related tools, libraries for Backend development**
+- 🌱 End-to-end database design & implementation for corporate solutions. Schema design, population, and performance tuning. Implementing security policies, access controls, and backup/recovery protocols. Automating maintenance tasks and optimizing queries
 
-- 👨‍💻 All of my projects are available at [https://main--ayushrakesh.netlify.app/](https://main--ayushrakesh.netlify.app/)
 
 - 📫 How to reach me **ayushrakesh.05@gmail.com**
 
